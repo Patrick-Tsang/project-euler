@@ -10,7 +10,7 @@ Explanation:
 using namespace std;
 using ll = long long;
 
-vector<vector<int>> v { 
+vector< vector <int> > v { 
     {75},
     {95, 64},
     {17, 47, 82},
